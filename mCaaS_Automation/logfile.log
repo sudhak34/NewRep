@@ -1,0 +1,532 @@
+2019-02-27 17:11:33,560 ERROR [Log] expected [https://memberuat.frost.com/login] but found [https://memberuat.frost.com] 
+2019-02-27 17:11:33,563 INFO  [Log]          Verify_Login: FAILED!              
+2019-02-27 17:11:33,563 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:11:33,572 ERROR [Log]  
+2019-02-27 17:11:33,576 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:11:33,576 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:12:53,087 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 17:12:53,088 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:14:13,662 ERROR [Log] Timed out after 60 seconds waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//*[contains(@class,'loader-anim bot')]/i[4]/span[text() ='Searching...']'
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir7236_9327}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 80245d30b09f46f3dcb187c85ba7a4ee 
+2019-02-27 17:14:13,676 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:14:13,676 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:24:01,079 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 17:24:01,079 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:24:22,424 ERROR [Log]  
+2019-02-27 17:24:22,426 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:24:22,426 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:26:24,325 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 17:26:24,327 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:27:55,228 ERROR [Log] Timed out after 60 seconds waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='message_1']/div[1]/div/div[1]/span[2]/span[1]'
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir16060_26558}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a847cb1e82ab96b69abee7e0a1a38016 
+2019-02-27 17:27:55,236 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:27:55,236 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:28:53,128 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 17:28:53,129 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:29:15,556 ERROR [Log]  
+2019-02-27 17:29:15,559 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:29:15,559 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:58:54,519 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 17:58:54,521 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 17:59:16,727 ERROR [Log]  
+2019-02-27 17:59:16,729 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 17:59:16,729 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:02:51,575 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 18:02:51,577 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:03:12,502 ERROR [Log]  
+2019-02-27 18:03:12,504 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 18:03:12,504 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:07:21,368 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 18:07:21,369 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:07:39,266 ERROR [Log]  
+2019-02-27 18:07:39,269 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 18:07:39,269 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:09:10,897 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 18:09:10,898 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:09:28,713 ERROR [Log]  
+2019-02-27 18:09:28,715 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-02-27 18:09:28,715 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:11:32,868 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-27 18:11:32,869 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-27 18:11:55,470 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-02-27 18:11:55,470 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 10:30:09,939 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-28 10:30:09,955 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 10:30:31,515 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-02-28 10:30:31,515 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:49:21,086 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-28 17:49:21,311 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:49:42,057 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-02-28 17:49:42,057 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:49:52,869 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-02-28 17:49:52,869 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:53:30,049 INFO  [Log]          Verify_Login: PASSED!              
+2019-02-28 17:53:30,049 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:53:51,541 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-02-28 17:53:51,541 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-02-28 17:54:03,314 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-02-28 17:54:03,314 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 10:56:51,464 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-01 10:56:51,499 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 10:57:17,796 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-01 10:57:17,796 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 10:57:28,717 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-01 10:57:28,717 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 14:41:40,666 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-01 14:41:40,710 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 14:41:40,716 ERROR [Log]  
+2019-03-01 14:41:40,718 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-03-01 14:41:40,719 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 14:41:50,047 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-01 14:41:50,047 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:43:18,257 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-01 17:43:18,258 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:43:37,836 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-01 17:43:37,836 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:43:46,608 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-01 17:43:46,608 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:44:02,656 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-01 17:44:02,656 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:44:33,035 ERROR [Log]  
+2019-03-01 17:44:33,039 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-01 17:44:33,040 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:50:26,309 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-01 17:50:26,312 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:50:51,190 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-01 17:50:51,190 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:51:01,944 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-01 17:51:01,944 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:52:01,992 ERROR [Log]  
+2019-03-01 17:52:02,001 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-01 17:52:02,001 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-01 17:59:12,722 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-01 17:59:12,723 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:01:15,029 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:01:15,041 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:09:23,307 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:09:23,308 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:21:36,856 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:21:36,857 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:22:54,823 ERROR [Log] Timed out after 60 seconds waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='pkw-portal']'
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir23312_32548}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f0b7583f2fbca96e05ee4366bfb2dd07 
+2019-03-04 11:22:54,862 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-03-04 11:22:54,862 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:23:09,797 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 11:23:09,797 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:24:21,123 ERROR [Log] Timed out after 60 seconds waiting for element to no longer be visible: By.cssSelector: div.spinner
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir23312_32548}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f0b7583f2fbca96e05ee4366bfb2dd07 
+2019-03-04 11:24:21,124 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-04 11:24:21,124 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:35:30,336 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:35:30,336 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:35:55,335 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 11:35:55,335 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:36:14,409 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 11:36:14,409 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:37:53,591 ERROR [Log]  
+2019-03-04 11:37:53,593 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-04 11:37:53,593 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:42:08,398 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:42:08,399 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:42:25,721 ERROR [Log] unknown error: Element <a class="read_research ng-scope" id="read_research1" type="button" ng-if="result.repdisp=='View Research'" href="https://research.frost.com/assets/1/bfd3c808-8334-11e7-8922-22b9eb655397/c8223738-7d99-11e7-ae6a-22b9eb655397/research?eui=76b36d98-987b-11e7-bf54-22b9eb655397&amp;augSearchTerm=9AAE-00-2D-00-00&amp;pagename=home&amp;ssokey=&amp;loginas=false" target="_blank">...</a> is not clickable at point (931, 294). Other element would receive the click: <div class="spinner" ng-hide="loaded &amp;&amp; loadedSidefeed"></div>
+  (Session info: chrome=72.0.3626.81)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 77 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir15072_889}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2fcc4c715e929f75e6988ff15a406357 
+2019-03-04 11:42:25,727 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-04 11:42:25,727 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:43:59,260 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 11:43:59,261 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:44:18,537 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 11:44:18,537 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:44:39,344 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 11:44:39,344 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 11:46:01,065 ERROR [Log]  
+2019-03-04 11:46:01,073 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-04 11:46:01,074 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 12:00:46,192 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 12:00:46,193 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 12:02:14,637 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='message_1']/div[1]/div/div[1]/span[2]/span[1]"}
+  (Session info: chrome=72.0.3626.81)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir22180_26583}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 90434702a131f827ce5624f0efd99177
+*** Element info: {Using=xpath, value=.//*[@id='message_1']/div[1]/div/div[1]/span[2]/span[1]} 
+2019-03-04 12:02:14,642 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-03-04 12:02:14,642 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 12:02:36,288 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 12:02:36,288 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 12:03:49,098 ERROR [Log]  
+2019-03-04 12:03:49,102 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-04 12:03:49,102 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:12:29,585 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 13:12:29,586 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:12:55,555 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 13:12:55,556 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:13:14,179 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 13:13:14,179 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:14:24,892 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 13:14:24,892 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:33:49,163 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 13:33:49,165 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:34:14,106 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 13:34:14,107 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:34:33,867 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 13:34:33,867 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 13:35:49,390 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 13:35:49,390 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:28:17,491 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 15:28:17,494 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:28:41,179 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 15:28:41,179 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:29:04,229 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 15:29:04,229 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:30:47,454 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 15:30:47,454 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:31:23,481 ERROR [Log] element not visible
+  (Session info: chrome=72.0.3626.81)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir19736_25898}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5080d1ed9c6317dcb4e667c64fe97967 
+2019-03-04 15:31:23,484 INFO  [Log]          Verify_Vault Response check: FAILED!              
+2019-03-04 15:31:23,484 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:35:47,773 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 15:35:47,773 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:36:17,700 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 15:36:17,700 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:36:39,164 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 15:36:39,164 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:38:07,036 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 15:38:07,036 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:39:38,035 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-04 15:39:38,035 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:48:51,437 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 15:48:51,437 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:49:24,442 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 15:49:24,443 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:49:49,339 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 15:49:49,339 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:50:56,738 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 15:50:56,738 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:52:11,610 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"html/body/div[6]/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div/div[4]/ul/li[1]/div/div[2]/div[2]/button[2]"}
+  (Session info: chrome=72.0.3626.81)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.76.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir7972_32403}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=72.0.3626.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 33aace71201a3ebf3480106d296f0322
+*** Element info: {Using=xpath, value=html/body/div[6]/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div/div[4]/ul/li[1]/div/div[2]/div[2]/button[2]} 
+2019-03-04 15:52:11,618 INFO  [Log]          Verify_Vault Response check: FAILED!              
+2019-03-04 15:52:11,618 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 15:59:38,098 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-04 15:59:38,098 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 16:00:05,691 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-04 16:00:05,691 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 16:00:28,582 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-04 16:00:28,582 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 16:02:08,411 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-04 16:02:08,411 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-04 16:05:15,313 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-04 16:05:15,313 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 10:20:17,993 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 10:20:18,007 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 10:20:45,398 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 10:20:45,398 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 10:21:00,747 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-05 10:21:00,747 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 10:21:54,136 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-05 10:21:54,137 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 10:23:45,337 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-05 10:23:45,337 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 12:56:51,071 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 12:56:51,083 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 12:59:04,092 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 12:59:04,093 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 13:00:21,238 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 13:00:21,238 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:30:35,864 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 15:30:35,869 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:32:25,084 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 15:32:25,084 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:32:30,245 ERROR [Log] For input string: "" 
+2019-03-05 15:32:30,249 INFO  [Log]          Verify_Aug search Response check: FAILED!              
+2019-03-05 15:32:30,250 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:38:01,838 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 15:38:01,839 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:40:05,694 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 15:40:05,694 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:40:10,881 ERROR [Log] For input string: "" 
+2019-03-05 15:40:10,883 INFO  [Log]          Verify_Aug search Response check: FAILED!              
+2019-03-05 15:40:10,884 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:41:51,735 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-05 15:41:51,736 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 15:43:59,479 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-05 15:43:59,480 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 16:54:54,813 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 16:54:54,836 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 16:56:12,770 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 16:56:12,770 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 16:56:45,967 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-05 16:56:45,967 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 16:57:48,986 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-05 16:57:48,986 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:00:21,440 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-05 17:00:21,441 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:16:45,315 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 17:16:45,315 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:17:40,218 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 17:17:40,218 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:18:04,272 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-05 17:18:04,272 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:19:22,416 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 17:19:22,416 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:20:21,286 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 17:20:21,286 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:20:52,527 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-05 17:20:52,527 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:21:56,049 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-05 17:21:56,050 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 17:23:55,572 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-05 17:23:55,573 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 18:47:50,872 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-05 18:47:50,873 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 18:48:55,049 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-05 18:48:55,049 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 18:49:28,119 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-05 18:49:28,119 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 18:50:39,011 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-05 18:50:39,011 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-05 18:52:40,157 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-05 18:52:40,157 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:31:13,661 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-06 11:31:13,666 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:31:58,527 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-06 11:31:58,527 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:32:04,057 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-06 11:32:04,057 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:32:09,891 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-06 11:32:09,891 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:34:26,533 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-06 11:34:26,534 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:53:34,214 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-06 11:53:34,215 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:55:33,219 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-06 11:55:33,219 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:56:00,506 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-06 11:56:00,506 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:57:31,861 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-06 11:57:31,861 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 11:59:39,907 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-06 11:59:39,907 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 12:24:13,245 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-06 12:24:13,246 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 12:25:04,332 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-06 12:25:04,332 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 12:25:36,578 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-06 12:25:36,578 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 12:27:45,616 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-06 12:27:45,616 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-06 12:30:00,415 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-06 12:30:00,415 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:32:18,409 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-13 15:32:18,411 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:33:15,672 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-13 15:33:15,672 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:33:22,223 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-13 15:33:22,223 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:33:29,876 ERROR [Log] null value in entry: name=null 
+2019-03-13 15:33:29,913 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-13 15:33:29,913 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:37:52,380 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-13 15:37:52,381 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:38:56,885 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-13 15:38:56,885 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:39:28,100 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-13 15:39:28,100 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:40:34,818 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-13 15:40:34,819 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-13 15:43:43,559 INFO  [Log]          Verify_Vault Response check: PASSED!              
+2019-03-13 15:43:43,559 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:09:38,734 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-21 12:09:38,743 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:10:45,323 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-21 12:10:45,323 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:20:18,320 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-21 12:20:18,321 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:21:37,001 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-21 12:21:37,002 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:41:53,337 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-21 12:41:53,338 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 12:43:03,047 INFO  [Log]          Verify_Reserach loading Response check: PASSED!              
+2019-03-21 12:43:03,047 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 14:26:28,908 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-21 14:26:28,910 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-21 14:27:20,385 ERROR [Log] chrome not reachable
+  (Session info: chrome=73.0.3683.67)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 198 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir2032_25958}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=73.0.3683.67, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cc84cb40cf96d79c869ad70ff4107caf 
+2019-03-21 14:27:20,398 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-21 14:27:20,398 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 11:46:33,498 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'HMECL001578', ip: '192.168.43.120', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3213}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir13172_689}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=73.0.3683.86, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a55f8f357946adf65f6ccfc112ed945d 
+2019-03-25 11:46:33,507 INFO  [Log]          Verify_Login: FAILED!              
+2019-03-25 11:46:33,507 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 13:33:28,732 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'HMECL001578', ip: '192.168.43.120', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3730}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir8756_13893}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=73.0.3683.86, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1f27dcfc575657043aedf244708a63a2 
+2019-03-25 13:33:28,746 INFO  [Log]          Verify_Login: FAILED!              
+2019-03-25 13:33:28,746 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:10:43,898 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-25 14:10:43,899 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:12:04,679 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-25 14:12:04,680 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:13:26,057 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-25 14:13:26,057 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:13:57,944 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-25 14:13:57,944 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:33:38,846 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:8866: Connection reset 
+2019-03-25 14:33:38,847 INFO  [RetryExec] Retrying request to {}->http://localhost:8866 
+2019-03-25 14:33:42,883 ERROR [Log] org.apache.http.conn.HttpHostConnectException: Connect to localhost:8866 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'HMECL001578', ip: '192.168.43.120', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-25 14:33:42,912 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-25 14:33:42,912 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:35:06,404 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-25 14:35:06,404 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:36:05,019 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-25 14:36:05,019 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-25 14:36:36,672 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-25 14:36:36,672 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-27 11:34:21,508 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:4933: Connection reset 
+2019-03-27 11:34:21,512 INFO  [RetryExec] Retrying request to {}->http://localhost:4933 
+2019-03-27 11:34:25,675 ERROR [Log] org.apache.http.conn.HttpHostConnectException: Connect to localhost:4933 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-27 11:34:25,701 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-27 11:34:25,701 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-27 11:36:05,900 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-27 11:36:05,900 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-27 11:37:10,090 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-27 11:37:10,090 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-27 11:37:41,852 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-27 11:37:41,853 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-28 10:39:02,038 ERROR [Log] java.net.SocketTimeoutException: Read timed out
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-28 10:39:02,132 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-28 10:39:02,132 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 12:49:52,026 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.40)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7435}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir2500_32569}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.40, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a234a2546ec705ec5f132684d508d876 
+2019-03-29 12:49:52,033 INFO  [Log]          Verify_Login: FAILED!              
+2019-03-29 12:49:52,033 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 12:51:03,392 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.40)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7435}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir2500_32569}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.40, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a234a2546ec705ec5f132684d508d876
+*** Element info: {Using=xpath, value=html/body/div[6]/div[5]/chatbot/div[1]/div/div/div[1]/div[3]/div} 
+2019-03-29 12:51:03,403 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-03-29 12:51:03,404 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 12:51:15,478 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-29 12:51:15,479 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 12:51:22,647 ERROR [Log] chrome not reachable
+  (Session info: chrome=74.0.3729.40)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.02 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7435}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir2500_32569}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=74.0.3729.40, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a234a2546ec705ec5f132684d508d876 
+2019-03-29 12:51:22,650 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-29 12:51:22,650 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 16:56:13,966 INFO  [Log]          Verify_Login: PASSED!              
+2019-03-29 16:56:13,993 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 16:57:01,756 INFO  [Log]          Verify_KE Response check: PASSED!              
+2019-03-29 16:57:01,756 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 16:57:12,889 INFO  [Log]          Verify_Aug search Response check: PASSED!              
+2019-03-29 16:57:12,889 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 16:57:22,081 ERROR [Log] Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir11612_19898}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.40, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cd5564a7ce8c5da55035e241be32ce9b 
+2019-03-29 16:57:22,094 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-03-29 16:57:22,094 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-03-29 16:57:29,141 ERROR [Log] Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.33.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir11612_19898}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=74.0.3729.40, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cd5564a7ce8c5da55035e241be32ce9b 
+2019-03-29 16:57:29,157 INFO  [Log]          Verify_Vault Response check: FAILED!              
+2019-03-29 16:57:29,157 INFO  [Log] ---------------------------------------------------------------------------------------- 

@@ -1,0 +1,216 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>mCaaS_Automation</groupId>
+  <artifactId>mCaaS_Automation</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>mCaaS_Automation</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+   <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>2.53.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/lift -->
+<!-- <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>lift</artifactId>
+    <version>3.5.3</version>
+</dependency> -->
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/lift -->
+<!-- <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>lift</artifactId>
+    <version>3.12.0</version>
+</dependency> -->
+<!-- <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-support</artifactId>
+        <version>3.0.1</version>
+</dependency> -->
+
+<dependency>
+    <groupId>org.fusesource.jansi</groupId>
+    <artifactId>jansi</artifactId>
+    <version>1.11</version>
+   </dependency>
+   <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
+<!-- <dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>mail</artifactId>
+    <version>1.4.7</version>
+</dependency> -->
+       <dependency>
+                <groupId>com.sun.mail</groupId>
+                <artifactId>javax.mail</artifactId>
+                <version>1.6.2</version>
+            </dependency>
+          
+<dependency>
+	<groupId>com.sun.jersey</groupId>
+	<artifactId>jersey-client</artifactId>
+	<version>1.8</version>
+</dependency>
+    <dependency>
+	<groupId>org.apache.poi</groupId>
+	<artifactId>poi</artifactId>
+	<version>3.9</version>
+    </dependency>
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+
+
+
+
+<!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
+<!-- <dependency>
+    <groupId>com.beust</groupId>
+    <artifactId>jcommander</artifactId>
+    <version>1.64</version>
+</dependency> -->
+
+    <dependency>
+    <groupId>org.apache.pdfbox</groupId>
+    <artifactId>pdfbox-app</artifactId>
+    <version>1.8.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.maven.shared/file-management -->
+<dependency>
+    <groupId>org.apache.maven.shared</groupId>
+    <artifactId>file-management</artifactId>
+    <version>3.0.0</version>
+</dependency>
+<dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>21.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>3.0.0</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20180813</version>
+</dependency>
+    <dependency>
+            <groupId>xml-apis</groupId>
+            <artifactId>xml-apis</artifactId>
+            <version>1.4.01</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-chrome-driver</artifactId>
+    <version>2.53.0</version>
+   </dependency>
+ 
+            <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>3.9</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>xml-apis</artifactId>
+                    <groupId>xml-apis</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+
+<!-- https://mvnrepository.com/artifact/org.eclipse.maven/org.apache.commons.httpclient -->
+ 
+
+
+<dependency>
+       <groupId>org.apache.httpcomponents</groupId>
+       <artifactId>httpclient</artifactId>
+       <version>4.5.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<!-- <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.8.8</version>
+    <scope>test</scope>
+</dependency> -->
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.9.9</version>
+    
+</dependency>
+
+<dependency>
+    <groupId> org.apache.cassandra</groupId>
+    <artifactId>cassandra-all</artifactId>
+    <version>0.8.1</version>
+
+    <!-- <exclusions>
+      <exclusion> 
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-log4j12</artifactId>
+      </exclusion>
+      <exclusion> 
+        <groupId>log4j</groupId>
+        <artifactId>log4j</artifactId>
+      </exclusion>
+    </exclusions>  -->
+  </dependency>
+  <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+<dependency>
+    <groupId>log4j</groupId>
+    <artifactId>log4j</artifactId>
+    <version>1.2.17</version>
+</dependency>
+  
+ <!-- <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>16.0.1</version>
+    </dependency> -->
+    </dependencies>
+   <build>              
+     <plugins>
+           <plugin>
+                 <groupId>org.apache.maven.plugins</groupId>
+                 <artifactId>maven-surefire-plugin</artifactId>
+                 <version>2.18.1</version>
+                   <configuration>
+                        <suiteXmlFiles>
+                               <suiteXmlFile>testng.xml</suiteXmlFile>
+                              
+                               <!-- <suiteXmlFiles>./suiteFiles/sandlexecution.xml</suiteXmlFiles> -->
+                         </suiteXmlFiles>                                                              
+                   </configuration>
+             </plugin>
+              <plugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-compiler-plugin</artifactId>
+                  <version>3.8.0</version>
+                  <configuration>
+                  <source>1.8</source>
+                  <target>1.8</target>
+                  </configuration>
+              </plugin>
+   </plugins>
+   </build>
+</project>
