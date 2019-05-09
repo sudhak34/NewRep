@@ -19,6 +19,7 @@ public class api_testing_01 {
 		       int rowCount = xl.getRowCount("Sheet1");
 		       for(int j=2;j<=rowCount;j++){
 		    	   System.out.println(j);
+		    	   System.out.println("");
 		       String API = xl.getCellData("Sheet1","API", j);
 		       String expected = xl.getCellData("Sheet1", "Keyword", j);
 		       // Escape and encode a string regarded as the query component of an URI with the default protocol charset.scape and encode a string regarded as the query component of an URI with the default protocol charset.
