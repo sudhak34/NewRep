@@ -589,3 +589,32 @@ Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEn
 Session ID: 2aa6785fb6e4691e0122650594af7f85 
 2019-05-08 12:59:36,988 INFO  [Log]          Verify_Vault Response check: FAILED!              
 2019-05-08 12:59:36,988 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-05-09 15:06:23,209 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.18)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.34.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir6392_24262}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=75.0.3770.18, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 920064d9b740b500d632acd12e8ad6d5 
+2019-05-09 15:06:23,224 INFO  [Log]          Verify_Login: FAILED!              
+2019-05-09 15:06:23,224 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-05-09 15:06:29,489 ERROR [Log] For input string: "" 
+2019-05-09 15:06:29,496 INFO  [Log]          Verify_KE Response check: FAILED!              
+2019-05-09 15:06:29,496 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-05-09 15:06:34,637 ERROR [Log] For input string: "" 
+2019-05-09 15:06:34,642 INFO  [Log]          Verify_Aug search Response check: FAILED!              
+2019-05-09 15:06:34,642 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-05-09 15:06:54,887 ERROR [Log] For input string: "" 
+2019-05-09 15:06:54,897 INFO  [Log]          Verify_Reserach loading Response check: FAILED!              
+2019-05-09 15:06:54,897 INFO  [Log] ---------------------------------------------------------------------------------------- 
+2019-05-09 15:08:00,029 ERROR [Log] Timed out after 60 seconds waiting for element to no longer be visible: By.cssSelector: div.spinner
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'HMECL001578', ip: '10.16.34.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\SUDHAK~1.KOD\AppData\Local\Temp\scoped_dir6392_24262}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=75.0.3770.18, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 920064d9b740b500d632acd12e8ad6d5 
+2019-05-09 15:08:00,043 INFO  [Log]          Verify_Vault Response check: FAILED!              
+2019-05-09 15:08:00,043 INFO  [Log] ---------------------------------------------------------------------------------------- 
